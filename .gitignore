@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+venv/
+.venv/
+
+# Node
+node_modules/
+
+# Data & Models
+*.csv
+*.npy
+*.h5
+*.keras
+models/
+dataset/
+data/
